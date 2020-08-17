@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecentPhotosApp</string>
+    <string name="show_recent_photos">\tShow Recent Photos\t</string>
+</resources>
